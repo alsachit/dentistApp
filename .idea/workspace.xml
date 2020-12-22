@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f738c626-c307-4df8-9d61-75ab92b93376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    <list default="true" id="f738c626-c307-4df8-9d61-75ab92b93376" name="Default Changelist" comment="add procfile in order to deploy fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,8 +195,16 @@
       <workItem from="1608319690743" duration="12839000" />
       <workItem from="1608365590881" duration="24452000" />
       <workItem from="1608566492770" duration="130000" />
-      <workItem from="1608626783407" duration="1234000" />
+      <workItem from="1608626783407" duration="5238000" />
     </task>
+    <task id="LOCAL-00001" summary="add procfile in order to deploy fix">
+      <created>1608628238626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608628238626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +220,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add procfile in order to deploy fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="add procfile in order to deploy fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608627931762">
@@ -250,10 +262,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608363047041" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608627087458">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608629404713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608627087458" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608629404713" />
     <state x="483" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608627013432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

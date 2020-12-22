@@ -14,12 +14,12 @@
         "laravel/tinker": "^2.5",
         "laravel/ui": "1.x",
       "ext-openssl": "*",
-      "ext-json": "*"
+      "ext-json": "*",
+        "fakerphp/faker": "^1.9.1"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.8",
         "facade/ignition": "^1.16.4",
-        "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^3.0",
         "phpunit/phpunit": "^8.5.8|^9.3.3"
